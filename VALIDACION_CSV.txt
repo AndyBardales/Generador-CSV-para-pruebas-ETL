@@ -1,0 +1,66 @@
+OLIST FAKER — VALIDACIÓN Y PREPARACIÓN CSV
+Fecha de ejecución: 2026-10-19 10:44:28
+Semilla: 20261019
+Periodo de compra: 2016-09-04 a 2020-10-17
+Formato de salida: CSV únicamente
+
+ARCHIVOS CSV GENERADOS:
+- Clientes: 50,000 filas
+- Vendedores: 350 filas
+- Productos: 3,000 filas
+- Geolocalizaciones: 250 filas
+- Categorías y traducciones: 31 filas
+- Pedidos: 50,000 filas
+- Artículos de pedido: 70,587 filas
+- Pagos: 54,599 filas
+- Reseñas: 37,089 filas
+
+VALIDACIONES DE DATOS MAESTROS:
+[OK] cantidad de clientes/registros igual a N_ORDERS
+[OK] customer_id único
+[OK] seller_id único
+[OK] nombres comerciales de vendedores únicos
+[OK] product_id único
+[OK] SKU de productos único
+[OK] prefijos postales únicos en geolocalización
+[OK] todos los clientes tienen prefijo geográfico existente
+[OK] todos los vendedores tienen prefijo geográfico existente
+[OK] todas las categorías de producto existen en el catálogo
+[OK] prefijos postales de cliente conservan cinco caracteres
+[OK] prefijos postales de vendedor conservan cinco caracteres
+
+VALIDACIONES TRANSACCIONALES:
+[OK] cantidad de pedidos igual a N_ORDERS
+[OK] order_id único
+[OK] todos los pedidos apuntan a un customer_id existente
+[OK] todos los artículos apuntan a pedidos existentes
+[OK] todos los artículos apuntan a productos existentes
+[OK] todos los artículos apuntan a vendedores existentes
+[OK] vendedor compatible con el grupo de la categoría del producto
+[OK] todos los pagos apuntan a pedidos existentes
+[OK] todas las reseñas apuntan a pedidos existentes
+[OK] review_id único
+[OK] puntuaciones de reseñas entre 1 y 5
+[OK] cada pedido tiene al menos un artículo
+[OK] combinación (order_id, order_item_id) única
+[OK] solo los pedidos con estado de pago elegible tienen registros de pago
+[OK] pagos coinciden al centavo con artículos + envíos por pedido
+[OK] las reseñas solo corresponden a pedidos entregados
+[OK] solo pedidos entregados tienen fecha de entrega efectiva
+[OK] fechas operativas posteriores o iguales a la compra
+[OK] despacho posterior a la aprobación
+[OK] entrega posterior al despacho
+[OK] límites de envío posteriores a la compra
+[OK] reseñas creadas después de la entrega
+[OK] respuestas a reseñas posteriores a su creación
+[INFO] Pedidos con pago: 47,893; pedidos sin pago simulado: 2,107
+[INFO] Pedidos entregados: 41,311; reseñas generadas: 37,089; líneas de pedido: 70,587; pagos: 54,599
+
+REGLAS Y LIMITACIONES:
+- Los registros son sintéticos; no representan ventas ni contactos reales.
+- Cada archivo de salida es CSV UTF-8 con encabezados.
+- Los CSV conservan los campos originales e incorporan campos descriptivos seleccionados.
+- Los importes de pago coinciden al centavo con los artículos más los envíos de pedidos elegibles.
+- Los pedidos cancelados, no disponibles o creados pueden quedar sin pagos por regla simplificada.
+- Las coordenadas y prefijos geográficos son aproximados y sintéticos.
+- Este generador no exporta Excel ni escribe directamente en una base de datos.

@@ -1,0 +1,37 @@
+city,state,state_name,latitude,longitude,cep_prefix_base
+São Paulo,SP,São Paulo,-23.5505,-46.6333,01000
+Campinas,SP,São Paulo,-22.9056,-47.0608,13000
+Rio de Janeiro,RJ,Rio de Janeiro,-22.9068,-43.1729,20000
+Niterói,RJ,Rio de Janeiro,-22.8832,-43.1034,24000
+Belo Horizonte,MG,Minas Gerais,-19.9167,-43.9345,30000
+Uberlândia,MG,Minas Gerais,-18.9113,-48.2622,38400
+Curitiba,PR,Paraná,-25.4284,-49.2733,80000
+Londrina,PR,Paraná,-23.3045,-51.1696,86000
+Porto Alegre,RS,Rio Grande do Sul,-30.0346,-51.2177,90000
+Caxias do Sul,RS,Rio Grande do Sul,-29.1634,-51.1797,95000
+Florianópolis,SC,Santa Catarina,-27.5954,-48.5480,88000
+Joinville,SC,Santa Catarina,-26.3045,-48.8487,89200
+Salvador,BA,Bahia,-12.9777,-38.5016,40000
+Feira de Santana,BA,Bahia,-12.2664,-38.9663,44000
+Recife,PE,Pernambuco,-8.0476,-34.8770,50000
+Olinda,PE,Pernambuco,-8.0089,-34.8553,53000
+Fortaleza,CE,Ceará,-3.7319,-38.5267,60000
+Juazeiro do Norte,CE,Ceará,-7.2131,-39.3153,63000
+Brasília,DF,Distrito Federal,-15.7939,-47.8828,70000
+Goiânia,GO,Goiás,-16.6869,-49.2648,74000
+Vitória,ES,Espírito Santo,-20.3155,-40.3128,29000
+Campo Grande,MS,Mato Grosso do Sul,-20.4697,-54.6201,79000
+Cuiabá,MT,Mato Grosso,-15.6014,-56.0979,78000
+Manaus,AM,Amazonas,-3.1190,-60.0217,69000
+Belém,PA,Pará,-1.4558,-48.4902,66000
+São Luís,MA,Maranhão,-2.5307,-44.3068,65000
+Teresina,PI,Piauí,-5.0892,-42.8016,64000
+Natal,RN,Rio Grande do Norte,-5.7793,-35.2009,59000
+João Pessoa,PB,Paraíba,-7.1195,-34.8450,58000
+Maceió,AL,Alagoas,-9.6498,-35.7089,57000
+Aracaju,SE,Sergipe,-10.9472,-37.0731,49000
+Porto Velho,RO,Rondônia,-8.7608,-63.8999,76800
+Rio Branco,AC,Acre,-9.9754,-67.8249,69900
+Macapá,AP,Amapá,0.0349,-51.0694,68900
+Boa Vista,RR,Roraima,2.8235,-60.6758,69300
+Palmas,TO,Tocantins,-10.1840,-48.3336,77000

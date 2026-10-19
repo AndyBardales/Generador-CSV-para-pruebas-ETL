@@ -1,0 +1,32 @@
+product_category_name,product_category_name_english,grupo,nombres_base,adjetivos,precio_min,precio_max,peso_min_g,peso_max_g
+beleza_saude,health_beauty,beleza,creme hidratante|kit de cuidados faciais|secador de cabelo|escova modeladora,profissional|compacto|premium|suave,15,450,80,1800
+informatica_acessorios,computers_accessories,tecnologia,teclado sem fio|mouse óptico|suporte para notebook|hub USB|webcam HD,ergonômico|compacto|sem fio|profissional,25,900,80,2200
+utilidades_domesticas,housewares,casa,organizador multiuso|conjunto de potes|suporte de cozinha|luminária decorativa,prático|resistente|moderno|compacto,12,350,100,5000
+relogios_presentes,watches_gifts,moda,relógio casual|pulseira elegante|kit para presente|relógio esportivo,clássico|moderno|elegante|versátil,35,1200,50,700
+esporte_lazer,sports_leisure,esporte,garrafa esportiva|tapete de exercício|mochila de trilha|kit de treinamento,leve|resistente|profissional|confortável,20,650,100,6000
+cama_mesa_banho,bed_bath_table,casa,jogo de toalhas|conjunto de lençóis|capa de almofada|manta decorativa,macio|elegante|confortável|moderno,25,500,200,4500
+telefonia,telephony,tecnologia,fone Bluetooth|carregador rápido|capa para celular|suporte veicular,compacto|resistente|rápido|moderno,15,1500,30,900
+moveis_decoracao,furniture_decor,casa,prateleira decorativa|mesa lateral|vaso decorativo|quadro para parede,minimalista|moderno|elegante|funcional,35,1800,500,25000
+fashion_bolsas_acessorios,fashion_bags_accessories,moda,bolsa transversal|carteira compacta|mochila urbana|cinto casual,versátil|elegante|casual|moderno,25,700,80,2500
+ferramentas_jardim,garden_tools, ferramentas,ferramenta multiuso|kit de jardinagem|tesoura de poda|organizador de ferramentas,resistente|profissional|prático|reforçado,20,850,150,9000
+brinquedos,toys,infantil,bloco de montar|jogo educativo|boneco articulado|kit de atividades,educativo|colorido|criativo|divertido,15,500,80,4000
+perfumaria,perfumery,beleza,perfume suave|kit de fragrâncias|colônia diária|estojo perfumado,clássico|refrescante|marcante|delicado,20,700,50,1200
+automotivo,auto,automotivo,suporte para celular|organizador automotivo|kit de limpeza|carregador veicular,prático|resistente|universal|compacto,18,900,100,8000
+eletrodomesticos,home_appliances,casa,cafeteira elétrica|ventilador compacto|liquidificador|aspirador portátil,eficiente|compacto|moderno|potente,80,1800,500,12000
+papelaria,stationery,livros,pasta organizadora|caderno executivo|kit de canetas|agenda diária,criativo|prático|elegante|colorido,5,250,30,1800
+pet_shop,pet_shop,pets,comedouro para pets|cama para animais|brinquedo para cães|kit de higiene,confortável|resistente|macio|prático,12,650,80,8000
+bebidas,drinks,bebidas,garrafa térmica|conjunto de copos|acessório para bebidas|caneca reutilizável,térmico|elegante|resistente|moderno,15,350,100,4000
+alimentos,food,bebidas,kit de ingredientes|caixa de doces|conjunto gourmet|seleção de snacks,artesanal|especial|tradicional|selecionado,10,280,100,5000
+audio,audio,tecnologia,caixa de som portátil|fone de ouvido|microfone compacto|adaptador de áudio,estéreo|portátil|sem fio|profissional,25,1600,80,5000
+consoles_games, consoles_games,tecnologia,controle para jogos|headset gamer|suporte para console|acessório gamer,ergonômico|rápido|imersivo|compacto,35,2500,80,6000
+fashion_calcados,fashion_shoes,moda,tênis casual|sandália urbana|sapato social|chinelo confortável,confortável|moderno|leve|versátil,30,900,250,1800
+fashion_roupa_masculina,fashion_male_clothing,moda,camiseta básica|camisa casual|jaqueta leve|calça urbana,casual|moderno|confortável|clássico,25,600,100,1800
+fashion_roupa_feminina,fashion_female_clothing,moda,vestido casual|blusa elegante|saia moderna|jaqueta feminina,moderno|elegante|leve|versátil,25,750,100,1800
+fashion_infanto_juvenil,fashion_childrens_clothes,infantil,conjunto infantil|camiseta juvenil|jaqueta infantil|pijama confortável,colorido|macio|divertido|confortável,20,450,80,1200
+livros_tecnicos,books_technical,livros,guia de tecnologia|manual prático|livro de programação|guia profissional,prático|atual|didático|completo,25,350,150,1800
+livros_interesse_geral,books_general_interest,livros,romance contemporâneo|livro de histórias|guia de viagens|coletânea de crônicas,envolvente|ilustrado|inspirador|clássico,15,250,100,1600
+moveis_cozinha,kitchen_furniture,casa,banqueta de cozinha|armário compacto|mesa dobrável|suporte de utensílios,funcional|compacto|moderno|resistente,70,2200,1500,30000
+moveis_sala,living_room_furniture,casa,mesa de centro|rack para sala|estante modular|poltrona compacta,moderno|minimalista|confortável|elegante,90,3500,2500,50000
+portateis_casa_forno_e_cafe,small_appliances_home_oven_and_coffee,casa,mini forno elétrico|chaleira elétrica|máquina de café|torradeira compacta,prático|eficiente|compacto|moderno,70,1600,500,12000
+eletroportateis,small_appliances,casa,processador compacto|batedeira elétrica|ferro a vapor|balança digital,eficiente|compacto|potente|prático,35,950,300,9000
+construcao_ferramentas_seguranca,construction_tools_safety,ferramentas,luva de proteção|óculos de segurança|kit de ferramentas|lanterna de trabalho,resistente|profissional|seguro|reforçado,15,1200,100,9000

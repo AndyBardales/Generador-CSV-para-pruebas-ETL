@@ -1,0 +1,351 @@
+﻿seller_id,seller_zip_code_prefix,seller_city,seller_state,seller_name,seller_legal_name,seller_email,seller_phone,seller_type,seller_category_group,seller_registration_date,seller_status
+SEL000001,53002,Olinda,PE,Brisa Perfumaria,Brisa Perfumaria Comércio Digital Ltda.,vendedor000001@example.com,+55 (00) 90000-0001,Loja de beleza,beleza,2014-11-03,ativo
+SEL000002,44002,Feira de Santana,BA,Top Tecnologia,Top Tecnologia Comércio Digital Ltda.,vendedor000002@example.com,+55 (00) 90000-0002,Loja de tecnologia,tecnologia,2014-06-16,ativo
+SEL000003,58001,João Pessoa,PB,Prático do Lar,Prático do Lar Comércio Digital Ltda.,vendedor000003@example.com,+55 (00) 90000-0003,Loja de casa e decoração,casa,2014-06-26,ativo
+SEL000004,69301,Boa Vista,RR,Armazém Variedades,Armazém Variedades Comércio Digital Ltda.,vendedor000004@example.com,+55 (00) 90000-0004,Loja multicanal,moda,2013-07-14,pausado
+SEL000005,69004,Manaus,AM,Vale Esportes,Vale Esportes Comércio Digital Ltda.,vendedor000005@example.com,+55 (00) 90000-0005,Loja de esportes,esporte,2015-08-28,ativo
+SEL000006,24006,Niterói,RJ,Central Suprimentos Técnicos,Central Suprimentos Técnicos Comércio Digital Ltda.,vendedor000006@example.com,+55 (00) 90000-0006,Loja de ferramentas,ferramentas,2015-08-10,ativo
+SEL000007,69904,Rio Branco,AC,Estilo Pequenos,Estilo Pequenos Comércio Digital Ltda.,vendedor000007@example.com,+55 (00) 90000-0007,Loja infantil,infantil,2015-09-02,ativo
+SEL000008,77001,Palmas,TO,Ateliê Suprimentos,Ateliê Suprimentos Comércio Digital Ltda.,vendedor000008@example.com,+55 (00) 90000-0008,Distribuidor,automotivo,2014-03-02,ativo
+SEL000009,01001,São Paulo,SP,Brisa Livros,Brisa Livros Comércio Digital Ltda.,vendedor000009@example.com,+55 (00) 90000-0009,Livraria,livros,2014-10-24,pausado
+SEL000010,86003,Londrina,PR,Prime Amigos dos Animais,Prime Amigos dos Animais Comércio Digital Ltda.,vendedor000010@example.com,+55 (00) 90000-0010,Loja pet,pets,2015-06-20,ativo
+SEL000011,76806,Porto Velho,RO,Casa Atacadista,Casa Atacadista Comércio Digital Ltda.,vendedor000011@example.com,+55 (00) 90000-0011,Distribuidor,bebidas,2013-09-13,ativo
+SEL000012,44006,Feira de Santana,BA,Ponto Atacado,Ponto Atacado Comércio Digital Ltda.,vendedor000012@example.com,+55 (00) 90000-0012,Distribuidor,beleza,2015-10-24,ativo
+SEL000013,80002,Curitiba,PR,Viva Eletrônicos,Viva Eletrônicos Comércio Digital Ltda.,vendedor000013@example.com,+55 (00) 90000-0013,Loja de tecnologia,tecnologia,2015-08-20,ativo
+SEL000014,53005,Olinda,PE,Estilo Distribuidora,Estilo Distribuidora Comércio Digital Ltda.,vendedor000014@example.com,+55 (00) 90000-0014,Distribuidor,casa,2015-01-04,ativo
+SEL000015,29001,Vitória,ES,Vale Moda,Vale Moda Comércio Digital Ltda.,vendedor000015@example.com,+55 (00) 90000-0015,Loja de moda,moda,2013-04-10,ativo
+SEL000016,66002,Belém,PA,Casa Vida Ativa,Casa Vida Ativa Comércio Digital Ltda.,vendedor000016@example.com,+55 (00) 90000-0016,Loja de esportes,esporte,2013-02-10,ativo
+SEL000017,69003,Manaus,AM,Ateliê Ferramentas,Ateliê Ferramentas Comércio Digital Ltda.,vendedor000017@example.com,+55 (00) 90000-0017,Loja de ferramentas,ferramentas,2013-01-20,ativo
+SEL000018,50005,Recife,PE,Ateliê Bebê e Criança,Ateliê Bebê e Criança Comércio Digital Ltda.,vendedor000018@example.com,+55 (00) 90000-0018,Loja infantil,infantil,2015-04-03,ativo
+SEL000019,30002,Belo Horizonte,MG,Ponto Auto Peças,Ponto Auto Peças Comércio Digital Ltda.,vendedor000019@example.com,+55 (00) 90000-0019,Loja automotiva,automotivo,2014-02-23,ativo
+SEL000020,76803,Porto Velho,RO,Top Livraria,Top Livraria Comércio Digital Ltda.,vendedor000020@example.com,+55 (00) 90000-0020,Livraria,livros,2016-03-17,ativo
+SEL000021,49006,Aracaju,SE,Grupo Amigos dos Animais,Grupo Amigos dos Animais Comércio Digital Ltda.,vendedor000021@example.com,+55 (00) 90000-0021,Loja pet,pets,2016-02-17,ativo
+SEL000022,69301,Boa Vista,RR,Central Mix,Central Mix Comércio Digital Ltda.,vendedor000022@example.com,+55 (00) 90000-0022,Loja multicanal,bebidas,2014-06-16,ativo
+SEL000023,50004,Recife,PE,Vale Suprimentos,Vale Suprimentos Comércio Digital Ltda.,vendedor000023@example.com,+55 (00) 90000-0023,Distribuidor,beleza,2013-06-02,ativo
+SEL000024,63006,Juazeiro do Norte,CE,Grupo Conecta,Grupo Conecta Comércio Digital Ltda.,vendedor000024@example.com,+55 (00) 90000-0024,Loja de tecnologia,tecnologia,2014-06-10,ativo
+SEL000025,76801,Porto Velho,RO,Mundo Lar & Cia,Mundo Lar & Cia Comércio Digital Ltda.,vendedor000025@example.com,+55 (00) 90000-0025,Loja de casa e decoração,casa,2014-10-03,inativo
+SEL000026,63004,Juazeiro do Norte,CE,Brisa Estilo,Brisa Estilo Comércio Digital Ltda.,vendedor000026@example.com,+55 (00) 90000-0026,Loja de moda,moda,2014-02-05,ativo
+SEL000027,78002,Cuiabá,MT,Nexo Vida Ativa,Nexo Vida Ativa Comércio Digital Ltda.,vendedor000027@example.com,+55 (00) 90000-0027,Loja de esportes,esporte,2013-11-15,ativo
+SEL000028,69005,Manaus,AM,Nexo Ferramentas,Nexo Ferramentas Comércio Digital Ltda.,vendedor000028@example.com,+55 (00) 90000-0028,Loja de ferramentas,ferramentas,2013-12-20,ativo
+SEL000029,40002,Salvador,BA,Prático Pequenos,Prático Pequenos Comércio Digital Ltda.,vendedor000029@example.com,+55 (00) 90000-0029,Loja infantil,infantil,2015-07-09,ativo
+SEL000030,95003,Caxias do Sul,RS,Top Auto Peças,Top Auto Peças Comércio Digital Ltda.,vendedor000030@example.com,+55 (00) 90000-0030,Loja automotiva,automotivo,2016-07-31,ativo
+SEL000031,44001,Feira de Santana,BA,Prime Leitura,Prime Leitura Comércio Digital Ltda.,vendedor000031@example.com,+55 (00) 90000-0031,Livraria,livros,2015-11-12,ativo
+SEL000032,76802,Porto Velho,RO,Central Pet Shop,Central Pet Shop Comércio Digital Ltda.,vendedor000032@example.com,+55 (00) 90000-0032,Loja pet,pets,2013-09-09,ativo
+SEL000033,63005,Juazeiro do Norte,CE,Conecta Produções,Conecta Produções Comércio Digital Ltda.,vendedor000033@example.com,+55 (00) 90000-0033,Fabricante,bebidas,2016-06-08,ativo
+SEL000034,95002,Caxias do Sul,RS,Estilo Beleza,Estilo Beleza Comércio Digital Ltda.,vendedor000034@example.com,+55 (00) 90000-0034,Loja de beleza,beleza,2013-07-02,ativo
+SEL000035,59006,Natal,RN,Horizonte Tecnologia,Horizonte Tecnologia Comércio Digital Ltda.,vendedor000035@example.com,+55 (00) 90000-0035,Loja de tecnologia,tecnologia,2014-01-23,ativo
+SEL000036,68902,Macapá,AP,Ateliê Decoração,Ateliê Decoração Comércio Digital Ltda.,vendedor000036@example.com,+55 (00) 90000-0036,Loja de casa e decoração,casa,2015-06-28,ativo
+SEL000037,44005,Feira de Santana,BA,Horizonte Distribuidora,Horizonte Distribuidora Comércio Digital Ltda.,vendedor000037@example.com,+55 (00) 90000-0037,Distribuidor,moda,2014-09-29,ativo
+SEL000038,78001,Cuiabá,MT,Prático Fábrica,Prático Fábrica Comércio Digital Ltda.,vendedor000038@example.com,+55 (00) 90000-0038,Fabricante,esporte,2016-06-16,ativo
+SEL000039,13003,Campinas,SP,Ateliê Casa do Profissional,Ateliê Casa do Profissional Comércio Digital Ltda.,vendedor000039@example.com,+55 (00) 90000-0039,Loja de ferramentas,ferramentas,2015-10-18,ativo
+SEL000040,63002,Juazeiro do Norte,CE,Estilo Infantil,Estilo Infantil Comércio Digital Ltda.,vendedor000040@example.com,+55 (00) 90000-0040,Loja infantil,infantil,2014-09-22,ativo
+SEL000041,60000,Fortaleza,CE,Viva Acessórios Automotivos,Viva Acessórios Automotivos Comércio Digital Ltda.,vendedor000041@example.com,+55 (00) 90000-0041,Loja automotiva,automotivo,2016-04-23,ativo
+SEL000042,86003,Londrina,PR,Casa Distribuidora,Casa Distribuidora Comércio Digital Ltda.,vendedor000042@example.com,+55 (00) 90000-0042,Distribuidor,livros,2014-12-05,ativo
+SEL000043,89202,Joinville,SC,Central Pet Center,Central Pet Center Comércio Digital Ltda.,vendedor000043@example.com,+55 (00) 90000-0043,Loja pet,pets,2015-10-30,ativo
+SEL000044,44006,Feira de Santana,BA,Central Bebidas,Central Bebidas Comércio Digital Ltda.,vendedor000044@example.com,+55 (00) 90000-0044,Loja de bebidas,bebidas,2014-07-01,ativo
+SEL000045,68900,Macapá,AP,Conecta Fábrica,Conecta Fábrica Comércio Digital Ltda.,vendedor000045@example.com,+55 (00) 90000-0045,Fabricante,beleza,2013-04-12,ativo
+SEL000046,63000,Juazeiro do Norte,CE,Ateliê Eletrônicos,Ateliê Eletrônicos Comércio Digital Ltda.,vendedor000046@example.com,+55 (00) 90000-0046,Loja de tecnologia,tecnologia,2013-05-29,ativo
+SEL000047,74005,Goiânia,GO,Prático Produtos,Prático Produtos Comércio Digital Ltda.,vendedor000047@example.com,+55 (00) 90000-0047,Fabricante,casa,2014-11-21,ativo
+SEL000048,24005,Niterói,RJ,Nexo Acessórios,Nexo Acessórios Comércio Digital Ltda.,vendedor000048@example.com,+55 (00) 90000-0048,Loja de moda,moda,2013-02-27,ativo
+SEL000049,58000,João Pessoa,PB,Top Suprimentos,Top Suprimentos Comércio Digital Ltda.,vendedor000049@example.com,+55 (00) 90000-0049,Distribuidor,esporte,2014-10-15,ativo
+SEL000050,29001,Vitória,ES,Mundo Brasil,Mundo Brasil Comércio Digital Ltda.,vendedor000050@example.com,+55 (00) 90000-0050,Fabricante,ferramentas,2015-09-13,ativo
+SEL000051,77000,Palmas,TO,Central Manufatura,Central Manufatura Comércio Digital Ltda.,vendedor000051@example.com,+55 (00) 90000-0051,Fabricante,infantil,2016-06-01,ativo
+SEL000052,80001,Curitiba,PR,Prático Produções,Prático Produções Comércio Digital Ltda.,vendedor000052@example.com,+55 (00) 90000-0052,Fabricante,automotivo,2013-12-02,pausado
+SEL000053,30002,Belo Horizonte,MG,Estilo Leitura,Estilo Leitura Comércio Digital Ltda.,vendedor000053@example.com,+55 (00) 90000-0053,Livraria,livros,2016-02-26,ativo
+SEL000054,38402,Uberlândia,MG,Grupo Mundo Pet,Grupo Mundo Pet Comércio Digital Ltda.,vendedor000054@example.com,+55 (00) 90000-0054,Loja pet,pets,2013-08-15,ativo
+SEL000055,29003,Vitória,ES,Rede Bebidas,Rede Bebidas Comércio Digital Ltda.,vendedor000055@example.com,+55 (00) 90000-0055,Loja de bebidas,bebidas,2015-07-24,ativo
+SEL000056,01004,São Paulo,SP,Ponto Beleza,Ponto Beleza Comércio Digital Ltda.,vendedor000056@example.com,+55 (00) 90000-0056,Loja de beleza,beleza,2014-05-19,ativo
+SEL000057,80002,Curitiba,PR,Central Tecnologia,Central Tecnologia Comércio Digital Ltda.,vendedor000057@example.com,+55 (00) 90000-0057,Loja de tecnologia,tecnologia,2016-06-16,ativo
+SEL000058,69901,Rio Branco,AC,Nova Atacado,Nova Atacado Comércio Digital Ltda.,vendedor000058@example.com,+55 (00) 90000-0058,Distribuidor,casa,2016-03-19,ativo
+SEL000059,66000,Belém,PA,Grupo Marketplace,Grupo Marketplace Comércio Digital Ltda.,vendedor000059@example.com,+55 (00) 90000-0059,Loja multicanal,moda,2016-05-06,pausado
+SEL000060,68901,Macapá,AP,Prático Esportes,Prático Esportes Comércio Digital Ltda.,vendedor000060@example.com,+55 (00) 90000-0060,Loja de esportes,esporte,2016-07-25,ativo
+SEL000061,53005,Olinda,PE,Estilo Atacadista,Estilo Atacadista Comércio Digital Ltda.,vendedor000061@example.com,+55 (00) 90000-0061,Distribuidor,ferramentas,2013-12-02,ativo
+SEL000062,53001,Olinda,PE,Armazém Bebê e Criança,Armazém Bebê e Criança Comércio Digital Ltda.,vendedor000062@example.com,+55 (00) 90000-0062,Loja infantil,infantil,2016-02-18,ativo
+SEL000063,76803,Porto Velho,RO,Central Auto Peças,Central Auto Peças Comércio Digital Ltda.,vendedor000063@example.com,+55 (00) 90000-0063,Loja automotiva,automotivo,2015-05-13,ativo
+SEL000064,40006,Salvador,BA,Nexo Comercial,Nexo Comercial Comércio Digital Ltda.,vendedor000064@example.com,+55 (00) 90000-0064,Distribuidor,livros,2014-10-07,pausado
+SEL000065,74005,Goiânia,GO,Prime Pet Shop,Prime Pet Shop Comércio Digital Ltda.,vendedor000065@example.com,+55 (00) 90000-0065,Loja pet,pets,2013-05-21,pausado
+SEL000066,78003,Cuiabá,MT,Prime Distribuidora de Bebidas,Prime Distribuidora de Bebidas Comércio Digital Ltda.,vendedor000066@example.com,+55 (00) 90000-0066,Loja de bebidas,bebidas,2014-01-24,pausado
+SEL000067,40000,Salvador,BA,Grupo Ofertas,Grupo Ofertas Comércio Digital Ltda.,vendedor000067@example.com,+55 (00) 90000-0067,Loja multicanal,beleza,2014-07-01,pausado
+SEL000068,60001,Fortaleza,CE,Prático Marketplace,Prático Marketplace Comércio Digital Ltda.,vendedor000068@example.com,+55 (00) 90000-0068,Loja multicanal,tecnologia,2015-05-14,ativo
+SEL000069,59003,Natal,RN,Prime Decoração,Prime Decoração Comércio Digital Ltda.,vendedor000069@example.com,+55 (00) 90000-0069,Loja de casa e decoração,casa,2015-03-03,ativo
+SEL000070,69303,Boa Vista,RR,Casa Estilo,Casa Estilo Comércio Digital Ltda.,vendedor000070@example.com,+55 (00) 90000-0070,Loja de moda,moda,2016-02-02,ativo
+SEL000071,49005,Aracaju,SE,Nexo Artigos Esportivos,Nexo Artigos Esportivos Comércio Digital Ltda.,vendedor000071@example.com,+55 (00) 90000-0071,Loja de esportes,esporte,2015-10-06,ativo
+SEL000072,76801,Porto Velho,RO,Rede Casa do Profissional,Rede Casa do Profissional Comércio Digital Ltda.,vendedor000072@example.com,+55 (00) 90000-0072,Loja de ferramentas,ferramentas,2015-11-03,pausado
+SEL000073,57003,Maceió,AL,Prime Mundo da Criança,Prime Mundo da Criança Comércio Digital Ltda.,vendedor000073@example.com,+55 (00) 90000-0073,Loja infantil,infantil,2013-11-17,ativo
+SEL000074,69006,Manaus,AM,Armazém Acessórios Automotivos,Armazém Acessórios Automotivos Comércio Digital Ltda.,vendedor000074@example.com,+55 (00) 90000-0074,Loja automotiva,automotivo,2016-03-05,ativo
+SEL000075,74004,Goiânia,GO,Estação Marketplace,Estação Marketplace Comércio Digital Ltda.,vendedor000075@example.com,+55 (00) 90000-0075,Loja multicanal,livros,2013-10-08,ativo
+SEL000076,74000,Goiânia,GO,Prime Brasil,Prime Brasil Comércio Digital Ltda.,vendedor000076@example.com,+55 (00) 90000-0076,Fabricante,pets,2013-06-10,ativo
+SEL000077,70006,Brasília,DF,Horizonte Empório,Horizonte Empório Comércio Digital Ltda.,vendedor000077@example.com,+55 (00) 90000-0077,Loja de bebidas,bebidas,2015-10-27,ativo
+SEL000078,01005,São Paulo,SP,Prático Beleza,Prático Beleza Comércio Digital Ltda.,vendedor000078@example.com,+55 (00) 90000-0078,Loja de beleza,beleza,2015-10-17,ativo
+SEL000079,90006,Porto Alegre,RS,Rede Digital,Rede Digital Comércio Digital Ltda.,vendedor000079@example.com,+55 (00) 90000-0079,Loja de tecnologia,tecnologia,2013-06-27,ativo
+SEL000080,70004,Brasília,DF,Prime Atacado,Prime Atacado Comércio Digital Ltda.,vendedor000080@example.com,+55 (00) 90000-0080,Distribuidor,casa,2015-06-07,ativo
+SEL000081,95005,Caxias do Sul,RS,Central Estilo,Central Estilo Comércio Digital Ltda.,vendedor000081@example.com,+55 (00) 90000-0081,Loja de moda,moda,2015-12-21,ativo
+SEL000082,30000,Belo Horizonte,MG,Conecta Esportes,Conecta Esportes Comércio Digital Ltda.,vendedor000082@example.com,+55 (00) 90000-0082,Loja de esportes,esporte,2014-12-06,inativo
+SEL000083,24000,Niterói,RJ,Ponto Casa do Profissional,Ponto Casa do Profissional Comércio Digital Ltda.,vendedor000083@example.com,+55 (00) 90000-0083,Loja de ferramentas,ferramentas,2014-10-02,ativo
+SEL000084,88005,Florianópolis,SC,Casa Mundo da Criança,Casa Mundo da Criança Comércio Digital Ltda.,vendedor000084@example.com,+55 (00) 90000-0084,Loja infantil,infantil,2015-06-08,inativo
+SEL000085,95005,Caxias do Sul,RS,Rede Auto Peças,Rede Auto Peças Comércio Digital Ltda.,vendedor000085@example.com,+55 (00) 90000-0085,Loja automotiva,automotivo,2013-12-08,pausado
+SEL000086,70001,Brasília,DF,Casa Livraria,Casa Livraria Comércio Digital Ltda.,vendedor000086@example.com,+55 (00) 90000-0086,Livraria,livros,2015-12-24,ativo
+SEL000087,24006,Niterói,RJ,Casa Pet Shop,Casa Pet Shop Comércio Digital Ltda.,vendedor000087@example.com,+55 (00) 90000-0087,Loja pet,pets,2013-06-10,ativo
+SEL000088,74002,Goiânia,GO,Top Bebidas,Top Bebidas Comércio Digital Ltda.,vendedor000088@example.com,+55 (00) 90000-0088,Loja de bebidas,bebidas,2016-03-08,ativo
+SEL000089,69302,Boa Vista,RR,Prime Perfumaria,Prime Perfumaria Comércio Digital Ltda.,vendedor000089@example.com,+55 (00) 90000-0089,Loja de beleza,beleza,2013-10-15,ativo
+SEL000090,86005,Londrina,PR,Viva Informática,Viva Informática Comércio Digital Ltda.,vendedor000090@example.com,+55 (00) 90000-0090,Loja de tecnologia,tecnologia,2015-07-05,inativo
+SEL000091,63004,Juazeiro do Norte,CE,Estação Lar & Cia,Estação Lar & Cia Comércio Digital Ltda.,vendedor000091@example.com,+55 (00) 90000-0091,Loja de casa e decoração,casa,2015-01-27,ativo
+SEL000092,80003,Curitiba,PR,Horizonte Moda,Horizonte Moda Comércio Digital Ltda.,vendedor000092@example.com,+55 (00) 90000-0092,Loja de moda,moda,2014-06-11,ativo
+SEL000093,77005,Palmas,TO,Vale Marketplace,Vale Marketplace Comércio Digital Ltda.,vendedor000093@example.com,+55 (00) 90000-0093,Loja multicanal,esporte,2016-08-26,ativo
+SEL000094,01000,São Paulo,SP,Grupo Casa do Profissional,Grupo Casa do Profissional Comércio Digital Ltda.,vendedor000094@example.com,+55 (00) 90000-0094,Loja de ferramentas,ferramentas,2013-12-23,ativo
+SEL000095,76806,Porto Velho,RO,Rede Mundo da Criança,Rede Mundo da Criança Comércio Digital Ltda.,vendedor000095@example.com,+55 (00) 90000-0095,Loja infantil,infantil,2014-03-19,ativo
+SEL000096,89200,Joinville,SC,Prime Suprimentos,Prime Suprimentos Comércio Digital Ltda.,vendedor000096@example.com,+55 (00) 90000-0096,Distribuidor,automotivo,2013-02-03,ativo
+SEL000097,49000,Aracaju,SE,Horizonte Atacadista,Horizonte Atacadista Comércio Digital Ltda.,vendedor000097@example.com,+55 (00) 90000-0097,Distribuidor,livros,2014-07-19,pausado
+SEL000098,88001,Florianópolis,SC,Conecta Amigos dos Animais,Conecta Amigos dos Animais Comércio Digital Ltda.,vendedor000098@example.com,+55 (00) 90000-0098,Loja pet,pets,2014-07-09,ativo
+SEL000099,69901,Rio Branco,AC,Vale Bebidas,Vale Bebidas Comércio Digital Ltda.,vendedor000099@example.com,+55 (00) 90000-0099,Loja de bebidas,bebidas,2013-04-25,pausado
+SEL000100,69006,Manaus,AM,Grupo Suprimentos,Grupo Suprimentos Comércio Digital Ltda.,vendedor000100@example.com,+55 (00) 90000-0100,Distribuidor,beleza,2015-10-16,ativo
+SEL000101,01004,São Paulo,SP,Conecta Brasil,Conecta Brasil Comércio Digital Ltda.,vendedor000101@example.com,+55 (00) 90000-0101,Fabricante,tecnologia,2013-03-06,ativo
+SEL000102,64002,Teresina,PI,Nexo Ambientes,Nexo Ambientes Comércio Digital Ltda.,vendedor000102@example.com,+55 (00) 90000-0102,Loja de casa e decoração,casa,2014-09-15,ativo
+SEL000103,29000,Vitória,ES,Ateliê Urbana,Ateliê Urbana Comércio Digital Ltda.,vendedor000103@example.com,+55 (00) 90000-0103,Loja de moda,moda,2014-04-24,ativo
+SEL000104,89200,Joinville,SC,Rede Fábrica,Rede Fábrica Comércio Digital Ltda.,vendedor000104@example.com,+55 (00) 90000-0104,Fabricante,esporte,2014-07-03,ativo
+SEL000105,80001,Curitiba,PR,Viva Atacado,Viva Atacado Comércio Digital Ltda.,vendedor000105@example.com,+55 (00) 90000-0105,Distribuidor,ferramentas,2016-03-03,ativo
+SEL000106,69303,Boa Vista,RR,Top Bebê e Criança,Top Bebê e Criança Comércio Digital Ltda.,vendedor000106@example.com,+55 (00) 90000-0106,Loja infantil,infantil,2013-03-13,ativo
+SEL000107,78003,Cuiabá,MT,Casa Acessórios Automotivos,Casa Acessórios Automotivos Comércio Digital Ltda.,vendedor000107@example.com,+55 (00) 90000-0107,Loja automotiva,automotivo,2016-03-23,ativo
+SEL000108,86001,Londrina,PR,Rede Livraria,Rede Livraria Comércio Digital Ltda.,vendedor000108@example.com,+55 (00) 90000-0108,Livraria,livros,2016-08-13,inativo
+SEL000109,01001,São Paulo,SP,Prático Pet Shop,Prático Pet Shop Comércio Digital Ltda.,vendedor000109@example.com,+55 (00) 90000-0109,Loja pet,pets,2015-09-17,ativo
+SEL000110,58003,João Pessoa,PB,Ponto Bebidas,Ponto Bebidas Comércio Digital Ltda.,vendedor000110@example.com,+55 (00) 90000-0110,Loja de bebidas,bebidas,2016-07-17,ativo
+SEL000111,70006,Brasília,DF,Prático Atacadista,Prático Atacadista Comércio Digital Ltda.,vendedor000111@example.com,+55 (00) 90000-0111,Distribuidor,beleza,2014-11-03,ativo
+SEL000112,50003,Recife,PE,Nexo Conecta,Nexo Conecta Comércio Digital Ltda.,vendedor000112@example.com,+55 (00) 90000-0112,Loja de tecnologia,tecnologia,2013-03-04,ativo
+SEL000113,38402,Uberlândia,MG,Conecta Design,Conecta Design Comércio Digital Ltda.,vendedor000113@example.com,+55 (00) 90000-0113,Loja de casa e decoração,casa,2014-03-30,ativo
+SEL000114,90004,Porto Alegre,RS,Grupo Atacadista,Grupo Atacadista Comércio Digital Ltda.,vendedor000114@example.com,+55 (00) 90000-0114,Distribuidor,moda,2016-06-03,ativo
+SEL000115,58003,João Pessoa,PB,Top Mix,Top Mix Comércio Digital Ltda.,vendedor000115@example.com,+55 (00) 90000-0115,Loja multicanal,esporte,2014-05-18,pausado
+SEL000116,38404,Uberlândia,MG,Mundo Indústria,Mundo Indústria Comércio Digital Ltda.,vendedor000116@example.com,+55 (00) 90000-0116,Fabricante,ferramentas,2013-12-26,pausado
+SEL000117,64004,Teresina,PI,Prime Infantil,Prime Infantil Comércio Digital Ltda.,vendedor000117@example.com,+55 (00) 90000-0117,Loja infantil,infantil,2014-06-24,ativo
+SEL000118,60004,Fortaleza,CE,Nova Auto Peças,Nova Auto Peças Comércio Digital Ltda.,vendedor000118@example.com,+55 (00) 90000-0118,Loja automotiva,automotivo,2015-12-07,ativo
+SEL000119,20002,Rio de Janeiro,RJ,Top Utilidades,Top Utilidades Comércio Digital Ltda.,vendedor000119@example.com,+55 (00) 90000-0119,Loja multicanal,livros,2013-11-22,pausado
+SEL000120,79003,Campo Grande,MS,Prime Mundo Pet,Prime Mundo Pet Comércio Digital Ltda.,vendedor000120@example.com,+55 (00) 90000-0120,Loja pet,pets,2013-11-17,ativo
+SEL000121,58003,João Pessoa,PB,Ponto Adega,Ponto Adega Comércio Digital Ltda.,vendedor000121@example.com,+55 (00) 90000-0121,Loja de bebidas,bebidas,2013-09-28,ativo
+SEL000122,65004,São Luís,MA,Ponto Marketplace,Ponto Marketplace Comércio Digital Ltda.,vendedor000122@example.com,+55 (00) 90000-0122,Loja multicanal,beleza,2013-01-07,ativo
+SEL000123,29003,Vitória,ES,Brisa Tech,Brisa Tech Comércio Digital Ltda.,vendedor000123@example.com,+55 (00) 90000-0123,Loja de tecnologia,tecnologia,2014-10-29,ativo
+SEL000124,40003,Salvador,BA,Nexo do Lar,Nexo do Lar Comércio Digital Ltda.,vendedor000124@example.com,+55 (00) 90000-0124,Loja de casa e decoração,casa,2014-07-25,ativo
+SEL000125,49002,Aracaju,SE,Estilo Comercial,Estilo Comercial Comércio Digital Ltda.,vendedor000125@example.com,+55 (00) 90000-0125,Distribuidor,moda,2013-04-23,ativo
+SEL000126,88000,Florianópolis,SC,Brisa Produtos,Brisa Produtos Comércio Digital Ltda.,vendedor000126@example.com,+55 (00) 90000-0126,Fabricante,esporte,2013-02-19,ativo
+SEL000127,68900,Macapá,AP,Casa Atacado,Casa Atacado Comércio Digital Ltda.,vendedor000127@example.com,+55 (00) 90000-0127,Distribuidor,ferramentas,2014-05-23,ativo
+SEL000128,63001,Juazeiro do Norte,CE,Armazém Infantil,Armazém Infantil Comércio Digital Ltda.,vendedor000128@example.com,+55 (00) 90000-0128,Loja infantil,infantil,2015-01-29,ativo
+SEL000129,50004,Recife,PE,Estação Auto Center,Estação Auto Center Comércio Digital Ltda.,vendedor000129@example.com,+55 (00) 90000-0129,Loja automotiva,automotivo,2013-07-19,ativo
+SEL000130,01006,São Paulo,SP,Nova Livraria,Nova Livraria Comércio Digital Ltda.,vendedor000130@example.com,+55 (00) 90000-0130,Livraria,livros,2015-07-15,ativo
+SEL000131,89201,Joinville,SC,Viva Logística,Viva Logística Comércio Digital Ltda.,vendedor000131@example.com,+55 (00) 90000-0131,Distribuidor,pets,2013-01-20,inativo
+SEL000132,76801,Porto Velho,RO,Rede Variedades,Rede Variedades Comércio Digital Ltda.,vendedor000132@example.com,+55 (00) 90000-0132,Loja multicanal,bebidas,2016-04-19,pausado
+SEL000133,79002,Campo Grande,MS,Mundo Variedades,Mundo Variedades Comércio Digital Ltda.,vendedor000133@example.com,+55 (00) 90000-0133,Loja multicanal,beleza,2014-11-17,ativo
+SEL000134,69304,Boa Vista,RR,Nova Tecnologia,Nova Tecnologia Comércio Digital Ltda.,vendedor000134@example.com,+55 (00) 90000-0134,Loja de tecnologia,tecnologia,2015-03-11,ativo
+SEL000135,49001,Aracaju,SE,Viva Ambientes,Viva Ambientes Comércio Digital Ltda.,vendedor000135@example.com,+55 (00) 90000-0135,Loja de casa e decoração,casa,2013-01-19,ativo
+SEL000136,69902,Rio Branco,AC,Mundo Tendências,Mundo Tendências Comércio Digital Ltda.,vendedor000136@example.com,+55 (00) 90000-0136,Loja de moda,moda,2013-06-08,ativo
+SEL000137,57001,Maceió,AL,Conecta Movimento,Conecta Movimento Comércio Digital Ltda.,vendedor000137@example.com,+55 (00) 90000-0137,Loja de esportes,esporte,2015-10-22,ativo
+SEL000138,80001,Curitiba,PR,Ponto Oficina,Ponto Oficina Comércio Digital Ltda.,vendedor000138@example.com,+55 (00) 90000-0138,Loja de ferramentas,ferramentas,2013-10-15,ativo
+SEL000139,20003,Rio de Janeiro,RJ,Grupo Logística,Grupo Logística Comércio Digital Ltda.,vendedor000139@example.com,+55 (00) 90000-0139,Distribuidor,infantil,2016-05-17,ativo
+SEL000140,13004,Campinas,SP,Prime Auto Center,Prime Auto Center Comércio Digital Ltda.,vendedor000140@example.com,+55 (00) 90000-0140,Loja automotiva,automotivo,2013-11-04,ativo
+SEL000141,69904,Rio Branco,AC,Nexo Leitura,Nexo Leitura Comércio Digital Ltda.,vendedor000141@example.com,+55 (00) 90000-0141,Livraria,livros,2015-06-28,ativo
+SEL000142,57006,Maceió,AL,Ateliê Pet Center,Ateliê Pet Center Comércio Digital Ltda.,vendedor000142@example.com,+55 (00) 90000-0142,Loja pet,pets,2013-12-10,ativo
+SEL000143,70003,Brasília,DF,Vale Distribuidora,Vale Distribuidora Comércio Digital Ltda.,vendedor000143@example.com,+55 (00) 90000-0143,Distribuidor,bebidas,2014-07-26,ativo
+SEL000144,40005,Salvador,BA,Mundo Beleza,Mundo Beleza Comércio Digital Ltda.,vendedor000144@example.com,+55 (00) 90000-0144,Loja de beleza,beleza,2016-08-02,ativo
+SEL000145,64000,Teresina,PI,Estação Eletrônicos,Estação Eletrônicos Comércio Digital Ltda.,vendedor000145@example.com,+55 (00) 90000-0145,Loja de tecnologia,tecnologia,2015-12-16,ativo
+SEL000146,53003,Olinda,PE,Mundo Produtos,Mundo Produtos Comércio Digital Ltda.,vendedor000146@example.com,+55 (00) 90000-0146,Fabricante,casa,2016-02-20,ativo
+SEL000147,50005,Recife,PE,Ponto Moda,Ponto Moda Comércio Digital Ltda.,vendedor000147@example.com,+55 (00) 90000-0147,Loja de moda,moda,2016-01-30,ativo
+SEL000148,69001,Manaus,AM,Ponto Movimento,Ponto Movimento Comércio Digital Ltda.,vendedor000148@example.com,+55 (00) 90000-0148,Loja de esportes,esporte,2013-06-08,ativo
+SEL000149,80006,Curitiba,PR,Viva Ferramentas,Viva Ferramentas Comércio Digital Ltda.,vendedor000149@example.com,+55 (00) 90000-0149,Loja de ferramentas,ferramentas,2013-02-16,inativo
+SEL000150,50001,Recife,PE,Prime Produções,Prime Produções Comércio Digital Ltda.,vendedor000150@example.com,+55 (00) 90000-0150,Fabricante,infantil,2014-11-30,pausado
+SEL000151,58002,João Pessoa,PB,Conecta Auto Center,Conecta Auto Center Comércio Digital Ltda.,vendedor000151@example.com,+55 (00) 90000-0151,Loja automotiva,automotivo,2014-05-08,ativo
+SEL000152,95003,Caxias do Sul,RS,Prático Papelaria e Livros,Prático Papelaria e Livros Comércio Digital Ltda.,vendedor000152@example.com,+55 (00) 90000-0152,Livraria,livros,2014-10-17,ativo
+SEL000153,90004,Porto Alegre,RS,Nexo Amigos dos Animais,Nexo Amigos dos Animais Comércio Digital Ltda.,vendedor000153@example.com,+55 (00) 90000-0153,Loja pet,pets,2015-11-26,ativo
+SEL000154,69901,Rio Branco,AC,Top Comercial,Top Comercial Comércio Digital Ltda.,vendedor000154@example.com,+55 (00) 90000-0154,Distribuidor,bebidas,2016-01-20,ativo
+SEL000155,60000,Fortaleza,CE,Ponto Produtos,Ponto Produtos Comércio Digital Ltda.,vendedor000155@example.com,+55 (00) 90000-0155,Fabricante,beleza,2015-12-05,ativo
+SEL000156,29001,Vitória,ES,Grupo Eletrônicos,Grupo Eletrônicos Comércio Digital Ltda.,vendedor000156@example.com,+55 (00) 90000-0156,Loja de tecnologia,tecnologia,2016-05-25,pausado
+SEL000157,13000,Campinas,SP,Vale Design,Vale Design Comércio Digital Ltda.,vendedor000157@example.com,+55 (00) 90000-0157,Loja de casa e decoração,casa,2014-08-25,ativo
+SEL000158,38404,Uberlândia,MG,Nexo Estilo,Nexo Estilo Comércio Digital Ltda.,vendedor000158@example.com,+55 (00) 90000-0158,Loja de moda,moda,2015-12-27,ativo
+SEL000159,20002,Rio de Janeiro,RJ,Ateliê Movimento,Ateliê Movimento Comércio Digital Ltda.,vendedor000159@example.com,+55 (00) 90000-0159,Loja de esportes,esporte,2015-10-31,ativo
+SEL000160,65003,São Luís,MA,Nexo Suprimentos Técnicos,Nexo Suprimentos Técnicos Comércio Digital Ltda.,vendedor000160@example.com,+55 (00) 90000-0160,Loja de ferramentas,ferramentas,2013-07-02,ativo
+SEL000161,59004,Natal,RN,Brisa Pequenos,Brisa Pequenos Comércio Digital Ltda.,vendedor000161@example.com,+55 (00) 90000-0161,Loja infantil,infantil,2016-08-31,ativo
+SEL000162,24002,Niterói,RJ,Nova Auto Center,Nova Auto Center Comércio Digital Ltda.,vendedor000162@example.com,+55 (00) 90000-0162,Loja automotiva,automotivo,2014-03-20,inativo
+SEL000163,53001,Olinda,PE,Horizonte Suprimentos,Horizonte Suprimentos Comércio Digital Ltda.,vendedor000163@example.com,+55 (00) 90000-0163,Distribuidor,livros,2014-09-04,ativo
+SEL000164,89201,Joinville,SC,Central Amigos dos Animais,Central Amigos dos Animais Comércio Digital Ltda.,vendedor000164@example.com,+55 (00) 90000-0164,Loja pet,pets,2014-04-10,ativo
+SEL000165,65001,São Luís,MA,Nexo Adega,Nexo Adega Comércio Digital Ltda.,vendedor000165@example.com,+55 (00) 90000-0165,Loja de bebidas,bebidas,2014-09-23,pausado
+SEL000166,57003,Maceió,AL,Viva Beleza,Viva Beleza Comércio Digital Ltda.,vendedor000166@example.com,+55 (00) 90000-0166,Loja de beleza,beleza,2016-05-24,ativo
+SEL000167,60001,Fortaleza,CE,Estilo Digital,Estilo Digital Comércio Digital Ltda.,vendedor000167@example.com,+55 (00) 90000-0167,Loja de tecnologia,tecnologia,2013-04-25,ativo
+SEL000168,44004,Feira de Santana,BA,Central Utilidades,Central Utilidades Comércio Digital Ltda.,vendedor000168@example.com,+55 (00) 90000-0168,Loja multicanal,casa,2016-08-03,inativo
+SEL000169,29001,Vitória,ES,Ateliê Acessórios,Ateliê Acessórios Comércio Digital Ltda.,vendedor000169@example.com,+55 (00) 90000-0169,Loja de moda,moda,2016-04-28,ativo
+SEL000170,40002,Salvador,BA,Grupo Artigos Esportivos,Grupo Artigos Esportivos Comércio Digital Ltda.,vendedor000170@example.com,+55 (00) 90000-0170,Loja de esportes,esporte,2014-09-25,ativo
+SEL000171,24000,Niterói,RJ,Top Casa do Profissional,Top Casa do Profissional Comércio Digital Ltda.,vendedor000171@example.com,+55 (00) 90000-0171,Loja de ferramentas,ferramentas,2013-10-22,ativo
+SEL000172,49003,Aracaju,SE,Brisa Bebê e Criança,Brisa Bebê e Criança Comércio Digital Ltda.,vendedor000172@example.com,+55 (00) 90000-0172,Loja infantil,infantil,2016-01-02,ativo
+SEL000173,30005,Belo Horizonte,MG,Nova Ofertas,Nova Ofertas Comércio Digital Ltda.,vendedor000173@example.com,+55 (00) 90000-0173,Loja multicanal,automotivo,2013-11-22,ativo
+SEL000174,58006,João Pessoa,PB,Central Brasil,Central Brasil Comércio Digital Ltda.,vendedor000174@example.com,+55 (00) 90000-0174,Fabricante,livros,2013-06-01,ativo
+SEL000175,13001,Campinas,SP,Rede Pet Center,Rede Pet Center Comércio Digital Ltda.,vendedor000175@example.com,+55 (00) 90000-0175,Loja pet,pets,2013-10-03,ativo
+SEL000176,76804,Porto Velho,RO,Prático Adega,Prático Adega Comércio Digital Ltda.,vendedor000176@example.com,+55 (00) 90000-0176,Loja de bebidas,bebidas,2016-06-30,ativo
+SEL000177,68902,Macapá,AP,Estação Perfumaria,Estação Perfumaria Comércio Digital Ltda.,vendedor000177@example.com,+55 (00) 90000-0177,Loja de beleza,beleza,2014-02-26,ativo
+SEL000178,01003,São Paulo,SP,Mundo Distribuidora,Mundo Distribuidora Comércio Digital Ltda.,vendedor000178@example.com,+55 (00) 90000-0178,Distribuidor,tecnologia,2013-12-04,ativo
+SEL000179,68903,Macapá,AP,Viva Center,Viva Center Comércio Digital Ltda.,vendedor000179@example.com,+55 (00) 90000-0179,Loja multicanal,casa,2013-01-28,ativo
+SEL000180,66005,Belém,PA,Mundo Moda,Mundo Moda Comércio Digital Ltda.,vendedor000180@example.com,+55 (00) 90000-0180,Loja de moda,moda,2014-09-30,ativo
+SEL000181,64001,Teresina,PI,Grupo Esportes,Grupo Esportes Comércio Digital Ltda.,vendedor000181@example.com,+55 (00) 90000-0181,Loja de esportes,esporte,2013-02-08,ativo
+SEL000182,86003,Londrina,PR,Nova Oficina,Nova Oficina Comércio Digital Ltda.,vendedor000182@example.com,+55 (00) 90000-0182,Loja de ferramentas,ferramentas,2013-08-10,ativo
+SEL000183,29000,Vitória,ES,Nexo Mundo da Criança,Nexo Mundo da Criança Comércio Digital Ltda.,vendedor000183@example.com,+55 (00) 90000-0183,Loja infantil,infantil,2014-07-02,ativo
+SEL000184,50002,Recife,PE,Mundo Produções,Mundo Produções Comércio Digital Ltda.,vendedor000184@example.com,+55 (00) 90000-0184,Fabricante,automotivo,2014-08-27,pausado
+SEL000185,40006,Salvador,BA,Vale Livraria,Vale Livraria Comércio Digital Ltda.,vendedor000185@example.com,+55 (00) 90000-0185,Livraria,livros,2013-01-07,ativo
+SEL000186,69903,Rio Branco,AC,Brisa Utilidades,Brisa Utilidades Comércio Digital Ltda.,vendedor000186@example.com,+55 (00) 90000-0186,Loja multicanal,pets,2013-02-21,pausado
+SEL000187,64004,Teresina,PI,Nova Empório,Nova Empório Comércio Digital Ltda.,vendedor000187@example.com,+55 (00) 90000-0187,Loja de bebidas,bebidas,2016-02-21,ativo
+SEL000188,63004,Juazeiro do Norte,CE,Conecta Cosméticos,Conecta Cosméticos Comércio Digital Ltda.,vendedor000188@example.com,+55 (00) 90000-0188,Loja de beleza,beleza,2013-03-17,pausado
+SEL000189,80004,Curitiba,PR,Top Produtos,Top Produtos Comércio Digital Ltda.,vendedor000189@example.com,+55 (00) 90000-0189,Fabricante,tecnologia,2016-05-07,ativo
+SEL000190,79005,Campo Grande,MS,Brisa Mix,Brisa Mix Comércio Digital Ltda.,vendedor000190@example.com,+55 (00) 90000-0190,Loja multicanal,casa,2015-03-03,ativo
+SEL000191,13003,Campinas,SP,Rede Urbana,Rede Urbana Comércio Digital Ltda.,vendedor000191@example.com,+55 (00) 90000-0191,Loja de moda,moda,2016-07-10,ativo
+SEL000192,68902,Macapá,AP,Grupo Vida Ativa,Grupo Vida Ativa Comércio Digital Ltda.,vendedor000192@example.com,+55 (00) 90000-0192,Loja de esportes,esporte,2013-03-13,ativo
+SEL000193,68904,Macapá,AP,Ateliê Oficina,Ateliê Oficina Comércio Digital Ltda.,vendedor000193@example.com,+55 (00) 90000-0193,Loja de ferramentas,ferramentas,2014-07-12,ativo
+SEL000194,69305,Boa Vista,RR,Top Infantil,Top Infantil Comércio Digital Ltda.,vendedor000194@example.com,+55 (00) 90000-0194,Loja infantil,infantil,2016-03-14,ativo
+SEL000195,29000,Vitória,ES,Viva Auto Center,Viva Auto Center Comércio Digital Ltda.,vendedor000195@example.com,+55 (00) 90000-0195,Loja automotiva,automotivo,2016-03-20,ativo
+SEL000196,65000,São Luís,MA,Prime Papelaria e Livros,Prime Papelaria e Livros Comércio Digital Ltda.,vendedor000196@example.com,+55 (00) 90000-0196,Livraria,livros,2015-11-07,ativo
+SEL000197,78001,Cuiabá,MT,Rede Pet Shop,Rede Pet Shop Comércio Digital Ltda.,vendedor000197@example.com,+55 (00) 90000-0197,Loja pet,pets,2013-06-01,ativo
+SEL000198,57000,Maceió,AL,Ateliê Bebidas,Ateliê Bebidas Comércio Digital Ltda.,vendedor000198@example.com,+55 (00) 90000-0198,Loja de bebidas,bebidas,2014-10-18,ativo
+SEL000199,79006,Campo Grande,MS,Estilo Cuidados Pessoais,Estilo Cuidados Pessoais Comércio Digital Ltda.,vendedor000199@example.com,+55 (00) 90000-0199,Loja de beleza,beleza,2014-07-28,ativo
+SEL000200,01000,São Paulo,SP,Ponto Tech,Ponto Tech Comércio Digital Ltda.,vendedor000200@example.com,+55 (00) 90000-0200,Loja de tecnologia,tecnologia,2013-12-22,ativo
+SEL000201,74000,Goiânia,GO,Armazém do Lar,Armazém do Lar Comércio Digital Ltda.,vendedor000201@example.com,+55 (00) 90000-0201,Loja de casa e decoração,casa,2013-01-16,ativo
+SEL000202,49004,Aracaju,SE,Mundo Fábrica,Mundo Fábrica Comércio Digital Ltda.,vendedor000202@example.com,+55 (00) 90000-0202,Fabricante,moda,2015-06-03,ativo
+SEL000203,57006,Maceió,AL,Estilo Movimento,Estilo Movimento Comércio Digital Ltda.,vendedor000203@example.com,+55 (00) 90000-0203,Loja de esportes,esporte,2013-11-19,ativo
+SEL000204,49004,Aracaju,SE,Nexo Ofertas,Nexo Ofertas Comércio Digital Ltda.,vendedor000204@example.com,+55 (00) 90000-0204,Loja multicanal,ferramentas,2016-01-07,ativo
+SEL000205,90005,Porto Alegre,RS,Grupo Mundo da Criança,Grupo Mundo da Criança Comércio Digital Ltda.,vendedor000205@example.com,+55 (00) 90000-0205,Loja infantil,infantil,2016-08-17,ativo
+SEL000206,44003,Feira de Santana,BA,Vale Auto Peças,Vale Auto Peças Comércio Digital Ltda.,vendedor000206@example.com,+55 (00) 90000-0206,Loja automotiva,automotivo,2014-08-16,ativo
+SEL000207,80006,Curitiba,PR,Vale Leitura,Vale Leitura Comércio Digital Ltda.,vendedor000207@example.com,+55 (00) 90000-0207,Livraria,livros,2015-11-26,pausado
+SEL000208,80006,Curitiba,PR,Brisa Atacadista,Brisa Atacadista Comércio Digital Ltda.,vendedor000208@example.com,+55 (00) 90000-0208,Distribuidor,pets,2013-07-27,ativo
+SEL000209,89201,Joinville,SC,Brisa Adega,Brisa Adega Comércio Digital Ltda.,vendedor000209@example.com,+55 (00) 90000-0209,Loja de bebidas,bebidas,2015-02-15,ativo
+SEL000210,76800,Porto Velho,RO,Prime Cosméticos,Prime Cosméticos Comércio Digital Ltda.,vendedor000210@example.com,+55 (00) 90000-0210,Loja de beleza,beleza,2016-05-10,ativo
+SEL000211,60005,Fortaleza,CE,Brisa Comercial,Brisa Comercial Comércio Digital Ltda.,vendedor000211@example.com,+55 (00) 90000-0211,Distribuidor,tecnologia,2014-05-12,ativo
+SEL000212,58003,João Pessoa,PB,Mundo Logística,Mundo Logística Comércio Digital Ltda.,vendedor000212@example.com,+55 (00) 90000-0212,Distribuidor,casa,2014-05-04,ativo
+SEL000213,44003,Feira de Santana,BA,Prime Fábrica,Prime Fábrica Comércio Digital Ltda.,vendedor000213@example.com,+55 (00) 90000-0213,Fabricante,moda,2014-07-20,ativo
+SEL000214,53006,Olinda,PE,Prático Logística,Prático Logística Comércio Digital Ltda.,vendedor000214@example.com,+55 (00) 90000-0214,Distribuidor,esporte,2013-06-09,pausado
+SEL000215,69304,Boa Vista,RR,Brisa Atacado,Brisa Atacado Comércio Digital Ltda.,vendedor000215@example.com,+55 (00) 90000-0215,Distribuidor,ferramentas,2015-10-04,ativo
+SEL000216,76803,Porto Velho,RO,Nova Infantil,Nova Infantil Comércio Digital Ltda.,vendedor000216@example.com,+55 (00) 90000-0216,Loja infantil,infantil,2013-08-08,ativo
+SEL000217,38403,Uberlândia,MG,Rede Indústria,Rede Indústria Comércio Digital Ltda.,vendedor000217@example.com,+55 (00) 90000-0217,Fabricante,automotivo,2014-06-24,ativo
+SEL000218,90004,Porto Alegre,RS,Prático Leitura,Prático Leitura Comércio Digital Ltda.,vendedor000218@example.com,+55 (00) 90000-0218,Livraria,livros,2014-11-16,ativo
+SEL000219,60001,Fortaleza,CE,Ponto Ofertas,Ponto Ofertas Comércio Digital Ltda.,vendedor000219@example.com,+55 (00) 90000-0219,Loja multicanal,pets,2013-08-24,pausado
+SEL000220,49006,Aracaju,SE,Mundo Distribuidora de Bebidas,Mundo Distribuidora de Bebidas Comércio Digital Ltda.,vendedor000220@example.com,+55 (00) 90000-0220,Loja de bebidas,bebidas,2014-09-27,ativo
+SEL000221,86002,Londrina,PR,Rede Atacado,Rede Atacado Comércio Digital Ltda.,vendedor000221@example.com,+55 (00) 90000-0221,Distribuidor,beleza,2014-08-03,ativo
+SEL000222,63001,Juazeiro do Norte,CE,Ateliê Digital,Ateliê Digital Comércio Digital Ltda.,vendedor000222@example.com,+55 (00) 90000-0222,Loja de tecnologia,tecnologia,2014-10-18,ativo
+SEL000223,86002,Londrina,PR,Viva Utilidades,Viva Utilidades Comércio Digital Ltda.,vendedor000223@example.com,+55 (00) 90000-0223,Loja de casa e decoração,casa,2014-11-10,ativo
+SEL000224,59005,Natal,RN,Casa Vestuário,Casa Vestuário Comércio Digital Ltda.,vendedor000224@example.com,+55 (00) 90000-0224,Loja de moda,moda,2014-09-09,ativo
+SEL000225,38405,Uberlândia,MG,Casa Marketplace,Casa Marketplace Comércio Digital Ltda.,vendedor000225@example.com,+55 (00) 90000-0225,Loja multicanal,esporte,2014-10-31,ativo
+SEL000226,69904,Rio Branco,AC,Prático Casa do Profissional,Prático Casa do Profissional Comércio Digital Ltda.,vendedor000226@example.com,+55 (00) 90000-0226,Loja de ferramentas,ferramentas,2015-06-18,ativo
+SEL000227,60002,Fortaleza,CE,Ateliê Manufatura,Ateliê Manufatura Comércio Digital Ltda.,vendedor000227@example.com,+55 (00) 90000-0227,Fabricante,infantil,2013-07-22,ativo
+SEL000228,66002,Belém,PA,Nexo Acessórios Automotivos,Nexo Acessórios Automotivos Comércio Digital Ltda.,vendedor000228@example.com,+55 (00) 90000-0228,Loja automotiva,automotivo,2015-06-26,ativo
+SEL000229,63006,Juazeiro do Norte,CE,Viva Papelaria e Livros,Viva Papelaria e Livros Comércio Digital Ltda.,vendedor000229@example.com,+55 (00) 90000-0229,Livraria,livros,2013-08-14,inativo
+SEL000230,86005,Londrina,PR,Viva Pet Center,Viva Pet Center Comércio Digital Ltda.,vendedor000230@example.com,+55 (00) 90000-0230,Loja pet,pets,2014-10-20,pausado
+SEL000231,65003,São Luís,MA,Viva Suprimentos,Viva Suprimentos Comércio Digital Ltda.,vendedor000231@example.com,+55 (00) 90000-0231,Distribuidor,bebidas,2013-08-22,ativo
+SEL000232,86000,Londrina,PR,Estilo Ofertas,Estilo Ofertas Comércio Digital Ltda.,vendedor000232@example.com,+55 (00) 90000-0232,Loja multicanal,beleza,2014-07-15,ativo
+SEL000233,89205,Joinville,SC,Grupo Tecnologia,Grupo Tecnologia Comércio Digital Ltda.,vendedor000233@example.com,+55 (00) 90000-0233,Loja de tecnologia,tecnologia,2016-04-06,ativo
+SEL000234,40005,Salvador,BA,Viva Ofertas,Viva Ofertas Comércio Digital Ltda.,vendedor000234@example.com,+55 (00) 90000-0234,Loja multicanal,casa,2015-02-17,ativo
+SEL000235,95000,Caxias do Sul,RS,Vale Tendências,Vale Tendências Comércio Digital Ltda.,vendedor000235@example.com,+55 (00) 90000-0235,Loja de moda,moda,2015-10-11,ativo
+SEL000236,90002,Porto Alegre,RS,Conecta Vida Ativa,Conecta Vida Ativa Comércio Digital Ltda.,vendedor000236@example.com,+55 (00) 90000-0236,Loja de esportes,esporte,2014-11-28,ativo
+SEL000237,69002,Manaus,AM,Central Ferramentas,Central Ferramentas Comércio Digital Ltda.,vendedor000237@example.com,+55 (00) 90000-0237,Loja de ferramentas,ferramentas,2014-03-02,ativo
+SEL000238,76806,Porto Velho,RO,Prático Bebê e Criança,Prático Bebê e Criança Comércio Digital Ltda.,vendedor000238@example.com,+55 (00) 90000-0238,Loja infantil,infantil,2014-06-22,ativo
+SEL000239,79004,Campo Grande,MS,Casa Auto Peças,Casa Auto Peças Comércio Digital Ltda.,vendedor000239@example.com,+55 (00) 90000-0239,Loja automotiva,automotivo,2016-03-18,pausado
+SEL000240,30001,Belo Horizonte,MG,Armazém Distribuidora,Armazém Distribuidora Comércio Digital Ltda.,vendedor000240@example.com,+55 (00) 90000-0240,Distribuidor,livros,2013-08-30,ativo
+SEL000241,79002,Campo Grande,MS,Brisa Pet Shop,Brisa Pet Shop Comércio Digital Ltda.,vendedor000241@example.com,+55 (00) 90000-0241,Loja pet,pets,2015-05-25,ativo
+SEL000242,20005,Rio de Janeiro,RJ,Brisa Distribuidora de Bebidas,Brisa Distribuidora de Bebidas Comércio Digital Ltda.,vendedor000242@example.com,+55 (00) 90000-0242,Loja de bebidas,bebidas,2014-02-01,ativo
+SEL000243,29000,Vitória,ES,Prático Perfumaria,Prático Perfumaria Comércio Digital Ltda.,vendedor000243@example.com,+55 (00) 90000-0243,Loja de beleza,beleza,2014-10-27,ativo
+SEL000244,88001,Florianópolis,SC,Horizonte Digital,Horizonte Digital Comércio Digital Ltda.,vendedor000244@example.com,+55 (00) 90000-0244,Loja de tecnologia,tecnologia,2014-02-10,pausado
+SEL000245,65000,São Luís,MA,Estação Design,Estação Design Comércio Digital Ltda.,vendedor000245@example.com,+55 (00) 90000-0245,Loja de casa e decoração,casa,2013-06-24,ativo
+SEL000246,69004,Manaus,AM,Prático Indústria,Prático Indústria Comércio Digital Ltda.,vendedor000246@example.com,+55 (00) 90000-0246,Fabricante,moda,2016-05-25,ativo
+SEL000247,58003,João Pessoa,PB,Estilo Suprimentos,Estilo Suprimentos Comércio Digital Ltda.,vendedor000247@example.com,+55 (00) 90000-0247,Distribuidor,esporte,2013-10-01,ativo
+SEL000248,60000,Fortaleza,CE,Ateliê Suprimentos Técnicos,Ateliê Suprimentos Técnicos Comércio Digital Ltda.,vendedor000248@example.com,+55 (00) 90000-0248,Loja de ferramentas,ferramentas,2016-08-11,ativo
+SEL000249,69001,Manaus,AM,Viva Atacadista,Viva Atacadista Comércio Digital Ltda.,vendedor000249@example.com,+55 (00) 90000-0249,Distribuidor,infantil,2014-04-05,ativo
+SEL000250,88005,Florianópolis,SC,Vale Motor,Vale Motor Comércio Digital Ltda.,vendedor000250@example.com,+55 (00) 90000-0250,Loja automotiva,automotivo,2015-06-24,ativo
+SEL000251,69904,Rio Branco,AC,Prime Ofertas,Prime Ofertas Comércio Digital Ltda.,vendedor000251@example.com,+55 (00) 90000-0251,Loja multicanal,livros,2013-04-06,ativo
+SEL000252,64006,Teresina,PI,Horizonte Mundo Pet,Horizonte Mundo Pet Comércio Digital Ltda.,vendedor000252@example.com,+55 (00) 90000-0252,Loja pet,pets,2016-06-09,ativo
+SEL000253,64003,Teresina,PI,Grupo Bebidas,Grupo Bebidas Comércio Digital Ltda.,vendedor000253@example.com,+55 (00) 90000-0253,Loja de bebidas,bebidas,2014-01-25,ativo
+SEL000254,88000,Florianópolis,SC,Central Produtos,Central Produtos Comércio Digital Ltda.,vendedor000254@example.com,+55 (00) 90000-0254,Fabricante,beleza,2015-11-18,ativo
+SEL000255,95001,Caxias do Sul,RS,Casa Tecnologia,Casa Tecnologia Comércio Digital Ltda.,vendedor000255@example.com,+55 (00) 90000-0255,Loja de tecnologia,tecnologia,2014-07-01,ativo
+SEL000256,24004,Niterói,RJ,Estilo Design,Estilo Design Comércio Digital Ltda.,vendedor000256@example.com,+55 (00) 90000-0256,Loja de casa e decoração,casa,2016-06-21,ativo
+SEL000257,95003,Caxias do Sul,RS,Top Urbana,Top Urbana Comércio Digital Ltda.,vendedor000257@example.com,+55 (00) 90000-0257,Loja de moda,moda,2016-01-09,ativo
+SEL000258,68905,Macapá,AP,Armazém Movimento,Armazém Movimento Comércio Digital Ltda.,vendedor000258@example.com,+55 (00) 90000-0258,Loja de esportes,esporte,2015-01-30,ativo
+SEL000259,69000,Manaus,AM,Conecta Suprimentos Técnicos,Conecta Suprimentos Técnicos Comércio Digital Ltda.,vendedor000259@example.com,+55 (00) 90000-0259,Loja de ferramentas,ferramentas,2013-05-15,ativo
+SEL000260,44005,Feira de Santana,BA,Viva Pequenos,Viva Pequenos Comércio Digital Ltda.,vendedor000260@example.com,+55 (00) 90000-0260,Loja infantil,infantil,2015-01-01,ativo
+SEL000261,38400,Uberlândia,MG,Estilo Brasil,Estilo Brasil Comércio Digital Ltda.,vendedor000261@example.com,+55 (00) 90000-0261,Fabricante,automotivo,2014-07-27,ativo
+SEL000262,69005,Manaus,AM,Grupo Leitura,Grupo Leitura Comércio Digital Ltda.,vendedor000262@example.com,+55 (00) 90000-0262,Livraria,livros,2015-09-26,ativo
+SEL000263,13000,Campinas,SP,Brisa Mundo Pet,Brisa Mundo Pet Comércio Digital Ltda.,vendedor000263@example.com,+55 (00) 90000-0263,Loja pet,pets,2013-12-07,ativo
+SEL000264,88006,Florianópolis,SC,Conecta Mix,Conecta Mix Comércio Digital Ltda.,vendedor000264@example.com,+55 (00) 90000-0264,Loja multicanal,bebidas,2013-09-03,ativo
+SEL000265,64003,Teresina,PI,Ateliê Cosméticos,Ateliê Cosméticos Comércio Digital Ltda.,vendedor000265@example.com,+55 (00) 90000-0265,Loja de beleza,beleza,2015-05-12,ativo
+SEL000266,78000,Cuiabá,MT,Brisa Informática,Brisa Informática Comércio Digital Ltda.,vendedor000266@example.com,+55 (00) 90000-0266,Loja de tecnologia,tecnologia,2014-08-17,ativo
+SEL000267,64000,Teresina,PI,Ponto do Lar,Ponto do Lar Comércio Digital Ltda.,vendedor000267@example.com,+55 (00) 90000-0267,Loja de casa e decoração,casa,2016-06-17,ativo
+SEL000268,40004,Salvador,BA,Grupo Indústria,Grupo Indústria Comércio Digital Ltda.,vendedor000268@example.com,+55 (00) 90000-0268,Fabricante,moda,2014-08-20,ativo
+SEL000269,68902,Macapá,AP,Grupo Movimento,Grupo Movimento Comércio Digital Ltda.,vendedor000269@example.com,+55 (00) 90000-0269,Loja de esportes,esporte,2014-02-10,ativo
+SEL000270,70000,Brasília,DF,Ponto Suprimentos Técnicos,Ponto Suprimentos Técnicos Comércio Digital Ltda.,vendedor000270@example.com,+55 (00) 90000-0270,Loja de ferramentas,ferramentas,2015-08-23,ativo
+SEL000271,69900,Rio Branco,AC,Prime Produtos,Prime Produtos Comércio Digital Ltda.,vendedor000271@example.com,+55 (00) 90000-0271,Fabricante,infantil,2014-06-21,ativo
+SEL000272,78002,Cuiabá,MT,Ponto Motor,Ponto Motor Comércio Digital Ltda.,vendedor000272@example.com,+55 (00) 90000-0272,Loja automotiva,automotivo,2013-01-04,ativo
+SEL000273,58004,João Pessoa,PB,Mundo Livraria,Mundo Livraria Comércio Digital Ltda.,vendedor000273@example.com,+55 (00) 90000-0273,Livraria,livros,2015-07-13,ativo
+SEL000274,69901,Rio Branco,AC,Casa Manufatura,Casa Manufatura Comércio Digital Ltda.,vendedor000274@example.com,+55 (00) 90000-0274,Fabricante,pets,2013-02-11,ativo
+SEL000275,86003,Londrina,PR,Central Distribuidora de Bebidas,Central Distribuidora de Bebidas Comércio Digital Ltda.,vendedor000275@example.com,+55 (00) 90000-0275,Loja de bebidas,bebidas,2016-08-23,ativo
+SEL000276,24002,Niterói,RJ,Rede Cuidados Pessoais,Rede Cuidados Pessoais Comércio Digital Ltda.,vendedor000276@example.com,+55 (00) 90000-0276,Loja de beleza,beleza,2013-08-07,ativo
+SEL000277,79000,Campo Grande,MS,Nexo Produtos,Nexo Produtos Comércio Digital Ltda.,vendedor000277@example.com,+55 (00) 90000-0277,Fabricante,tecnologia,2015-02-20,ativo
+SEL000278,90004,Porto Alegre,RS,Casa Utilidades,Casa Utilidades Comércio Digital Ltda.,vendedor000278@example.com,+55 (00) 90000-0278,Loja de casa e decoração,casa,2016-06-21,ativo
+SEL000279,50003,Recife,PE,Brisa Tendências,Brisa Tendências Comércio Digital Ltda.,vendedor000279@example.com,+55 (00) 90000-0279,Loja de moda,moda,2014-04-29,pausado
+SEL000280,44003,Feira de Santana,BA,Rede Esportes,Rede Esportes Comércio Digital Ltda.,vendedor000280@example.com,+55 (00) 90000-0280,Loja de esportes,esporte,2015-05-13,ativo
+SEL000281,74004,Goiânia,GO,Grupo Utilidades,Grupo Utilidades Comércio Digital Ltda.,vendedor000281@example.com,+55 (00) 90000-0281,Loja multicanal,ferramentas,2015-11-25,ativo
+SEL000282,58004,João Pessoa,PB,Conecta Pequenos,Conecta Pequenos Comércio Digital Ltda.,vendedor000282@example.com,+55 (00) 90000-0282,Loja infantil,infantil,2014-11-28,ativo
+SEL000283,01002,São Paulo,SP,Brisa Acessórios Automotivos,Brisa Acessórios Automotivos Comércio Digital Ltda.,vendedor000283@example.com,+55 (00) 90000-0283,Loja automotiva,automotivo,2016-06-05,ativo
+SEL000284,66006,Belém,PA,Central Livraria,Central Livraria Comércio Digital Ltda.,vendedor000284@example.com,+55 (00) 90000-0284,Livraria,livros,2016-02-13,ativo
+SEL000285,49001,Aracaju,SE,Nova Mundo Pet,Nova Mundo Pet Comércio Digital Ltda.,vendedor000285@example.com,+55 (00) 90000-0285,Loja pet,pets,2014-04-28,pausado
+SEL000286,30003,Belo Horizonte,MG,Armazém Adega,Armazém Adega Comércio Digital Ltda.,vendedor000286@example.com,+55 (00) 90000-0286,Loja de bebidas,bebidas,2015-11-21,ativo
+SEL000287,79005,Campo Grande,MS,Top Cosméticos,Top Cosméticos Comércio Digital Ltda.,vendedor000287@example.com,+55 (00) 90000-0287,Loja de beleza,beleza,2016-02-11,ativo
+SEL000288,01000,São Paulo,SP,Mundo Eletrônicos,Mundo Eletrônicos Comércio Digital Ltda.,vendedor000288@example.com,+55 (00) 90000-0288,Loja de tecnologia,tecnologia,2013-04-27,ativo
+SEL000289,38404,Uberlândia,MG,Prime Mix,Prime Mix Comércio Digital Ltda.,vendedor000289@example.com,+55 (00) 90000-0289,Loja multicanal,casa,2016-08-01,ativo
+SEL000290,29004,Vitória,ES,Casa Produções,Casa Produções Comércio Digital Ltda.,vendedor000290@example.com,+55 (00) 90000-0290,Fabricante,moda,2015-05-21,ativo
+SEL000291,13003,Campinas,SP,Vale Artigos Esportivos,Vale Artigos Esportivos Comércio Digital Ltda.,vendedor000291@example.com,+55 (00) 90000-0291,Loja de esportes,esporte,2016-05-30,ativo
+SEL000292,76806,Porto Velho,RO,Estação Comercial,Estação Comercial Comércio Digital Ltda.,vendedor000292@example.com,+55 (00) 90000-0292,Distribuidor,ferramentas,2016-04-29,ativo
+SEL000293,76804,Porto Velho,RO,Conecta Mundo da Criança,Conecta Mundo da Criança Comércio Digital Ltda.,vendedor000293@example.com,+55 (00) 90000-0293,Loja infantil,infantil,2014-12-21,pausado
+SEL000294,57002,Maceió,AL,Viva Produtos,Viva Produtos Comércio Digital Ltda.,vendedor000294@example.com,+55 (00) 90000-0294,Fabricante,automotivo,2015-05-21,ativo
+SEL000295,57002,Maceió,AL,Ponto Papelaria e Livros,Ponto Papelaria e Livros Comércio Digital Ltda.,vendedor000295@example.com,+55 (00) 90000-0295,Livraria,livros,2016-01-25,ativo
+SEL000296,89206,Joinville,SC,Ateliê Variedades,Ateliê Variedades Comércio Digital Ltda.,vendedor000296@example.com,+55 (00) 90000-0296,Loja multicanal,pets,2014-03-12,pausado
+SEL000297,89204,Joinville,SC,Armazém Bebidas,Armazém Bebidas Comércio Digital Ltda.,vendedor000297@example.com,+55 (00) 90000-0297,Loja de bebidas,bebidas,2015-02-01,ativo
+SEL000298,49001,Aracaju,SE,Ponto Suprimentos,Ponto Suprimentos Comércio Digital Ltda.,vendedor000298@example.com,+55 (00) 90000-0298,Distribuidor,beleza,2013-11-06,inativo
+SEL000299,58001,João Pessoa,PB,Ponto Atacadista,Ponto Atacadista Comércio Digital Ltda.,vendedor000299@example.com,+55 (00) 90000-0299,Distribuidor,tecnologia,2014-02-06,ativo
+SEL000300,63003,Juazeiro do Norte,CE,Grupo Ambientes,Grupo Ambientes Comércio Digital Ltda.,vendedor000300@example.com,+55 (00) 90000-0300,Loja de casa e decoração,casa,2015-07-07,ativo
+SEL000301,64001,Teresina,PI,Prático Moda,Prático Moda Comércio Digital Ltda.,vendedor000301@example.com,+55 (00) 90000-0301,Loja de moda,moda,2014-12-14,ativo
+SEL000302,69305,Boa Vista,RR,Vale Vida Ativa,Vale Vida Ativa Comércio Digital Ltda.,vendedor000302@example.com,+55 (00) 90000-0302,Loja de esportes,esporte,2013-02-02,ativo
+SEL000303,20003,Rio de Janeiro,RJ,Casa Casa do Profissional,Casa Casa do Profissional Comércio Digital Ltda.,vendedor000303@example.com,+55 (00) 90000-0303,Loja de ferramentas,ferramentas,2016-04-12,ativo
+SEL000304,13006,Campinas,SP,Grupo Pequenos,Grupo Pequenos Comércio Digital Ltda.,vendedor000304@example.com,+55 (00) 90000-0304,Loja infantil,infantil,2013-01-17,ativo
+SEL000305,20003,Rio de Janeiro,RJ,Conecta Center,Conecta Center Comércio Digital Ltda.,vendedor000305@example.com,+55 (00) 90000-0305,Loja multicanal,automotivo,2014-11-13,ativo
+SEL000306,66006,Belém,PA,Ponto Leitura,Ponto Leitura Comércio Digital Ltda.,vendedor000306@example.com,+55 (00) 90000-0306,Livraria,livros,2013-06-12,ativo
+SEL000307,01002,São Paulo,SP,Armazém Atacadista,Armazém Atacadista Comércio Digital Ltda.,vendedor000307@example.com,+55 (00) 90000-0307,Distribuidor,pets,2015-03-10,ativo
+SEL000308,79004,Campo Grande,MS,Central Adega,Central Adega Comércio Digital Ltda.,vendedor000308@example.com,+55 (00) 90000-0308,Loja de bebidas,bebidas,2016-05-04,ativo
+SEL000309,24005,Niterói,RJ,Brisa Center,Brisa Center Comércio Digital Ltda.,vendedor000309@example.com,+55 (00) 90000-0309,Loja multicanal,beleza,2014-04-12,ativo
+SEL000310,79001,Campo Grande,MS,Conecta Utilidades,Conecta Utilidades Comércio Digital Ltda.,vendedor000310@example.com,+55 (00) 90000-0310,Loja multicanal,tecnologia,2014-11-06,ativo
+SEL000311,30003,Belo Horizonte,MG,Top Marketplace,Top Marketplace Comércio Digital Ltda.,vendedor000311@example.com,+55 (00) 90000-0311,Loja multicanal,casa,2014-11-16,ativo
+SEL000312,40000,Salvador,BA,Viva Acessórios,Viva Acessórios Comércio Digital Ltda.,vendedor000312@example.com,+55 (00) 90000-0312,Loja de moda,moda,2014-02-21,ativo
+SEL000313,66003,Belém,PA,Rede Movimento,Rede Movimento Comércio Digital Ltda.,vendedor000313@example.com,+55 (00) 90000-0313,Loja de esportes,esporte,2016-06-01,ativo
+SEL000314,57002,Maceió,AL,Estilo Mix,Estilo Mix Comércio Digital Ltda.,vendedor000314@example.com,+55 (00) 90000-0314,Loja multicanal,ferramentas,2014-10-18,ativo
+SEL000315,13002,Campinas,SP,Rede Distribuidora,Rede Distribuidora Comércio Digital Ltda.,vendedor000315@example.com,+55 (00) 90000-0315,Distribuidor,infantil,2015-08-31,ativo
+SEL000316,90000,Porto Alegre,RS,Armazém Auto Center,Armazém Auto Center Comércio Digital Ltda.,vendedor000316@example.com,+55 (00) 90000-0316,Loja automotiva,automotivo,2013-06-11,ativo
+SEL000317,57006,Maceió,AL,Casa Leitura,Casa Leitura Comércio Digital Ltda.,vendedor000317@example.com,+55 (00) 90000-0317,Livraria,livros,2013-03-10,pausado
+SEL000318,30005,Belo Horizonte,MG,Mundo Pet Center,Mundo Pet Center Comércio Digital Ltda.,vendedor000318@example.com,+55 (00) 90000-0318,Loja pet,pets,2013-01-01,ativo
+SEL000319,74004,Goiânia,GO,Top Distribuidora de Bebidas,Top Distribuidora de Bebidas Comércio Digital Ltda.,vendedor000319@example.com,+55 (00) 90000-0319,Loja de bebidas,bebidas,2015-10-26,ativo
+SEL000320,69003,Manaus,AM,Casa Perfumaria,Casa Perfumaria Comércio Digital Ltda.,vendedor000320@example.com,+55 (00) 90000-0320,Loja de beleza,beleza,2015-07-13,ativo
+SEL000321,01000,São Paulo,SP,Nexo Tecnologia,Nexo Tecnologia Comércio Digital Ltda.,vendedor000321@example.com,+55 (00) 90000-0321,Loja de tecnologia,tecnologia,2015-07-31,ativo
+SEL000322,80005,Curitiba,PR,Grupo Produções,Grupo Produções Comércio Digital Ltda.,vendedor000322@example.com,+55 (00) 90000-0322,Fabricante,casa,2014-07-18,ativo
+SEL000323,65003,São Luís,MA,Ateliê Moda,Ateliê Moda Comércio Digital Ltda.,vendedor000323@example.com,+55 (00) 90000-0323,Loja de moda,moda,2016-03-24,ativo
+SEL000324,50000,Recife,PE,Horizonte Movimento,Horizonte Movimento Comércio Digital Ltda.,vendedor000324@example.com,+55 (00) 90000-0324,Loja de esportes,esporte,2013-02-05,ativo
+SEL000325,64001,Teresina,PI,Prime Ferramentas,Prime Ferramentas Comércio Digital Ltda.,vendedor000325@example.com,+55 (00) 90000-0325,Loja de ferramentas,ferramentas,2013-09-17,ativo
+SEL000326,64006,Teresina,PI,Estilo Bebê e Criança,Estilo Bebê e Criança Comércio Digital Ltda.,vendedor000326@example.com,+55 (00) 90000-0326,Loja infantil,infantil,2013-03-08,ativo
+SEL000327,66003,Belém,PA,Nova Acessórios Automotivos,Nova Acessórios Automotivos Comércio Digital Ltda.,vendedor000327@example.com,+55 (00) 90000-0327,Loja automotiva,automotivo,2015-03-26,ativo
+SEL000328,68900,Macapá,AP,Central Leitura,Central Leitura Comércio Digital Ltda.,vendedor000328@example.com,+55 (00) 90000-0328,Livraria,livros,2016-01-14,ativo
+SEL000329,38405,Uberlândia,MG,Armazém Mundo Pet,Armazém Mundo Pet Comércio Digital Ltda.,vendedor000329@example.com,+55 (00) 90000-0329,Loja pet,pets,2014-07-19,ativo
+SEL000330,80000,Curitiba,PR,Top Adega,Top Adega Comércio Digital Ltda.,vendedor000330@example.com,+55 (00) 90000-0330,Loja de bebidas,bebidas,2015-05-09,ativo
+SEL000331,50001,Recife,PE,Vale Beleza,Vale Beleza Comércio Digital Ltda.,vendedor000331@example.com,+55 (00) 90000-0331,Loja de beleza,beleza,2016-01-20,pausado
+SEL000332,29003,Vitória,ES,Top Fábrica,Top Fábrica Comércio Digital Ltda.,vendedor000332@example.com,+55 (00) 90000-0332,Fabricante,tecnologia,2015-11-30,ativo
+SEL000333,13000,Campinas,SP,Estação Brasil,Estação Brasil Comércio Digital Ltda.,vendedor000333@example.com,+55 (00) 90000-0333,Fabricante,casa,2016-08-01,ativo
+SEL000334,90005,Porto Alegre,RS,Estilo Vestuário,Estilo Vestuário Comércio Digital Ltda.,vendedor000334@example.com,+55 (00) 90000-0334,Loja de moda,moda,2016-03-30,ativo
+SEL000335,64003,Teresina,PI,Armazém Artigos Esportivos,Armazém Artigos Esportivos Comércio Digital Ltda.,vendedor000335@example.com,+55 (00) 90000-0335,Loja de esportes,esporte,2015-11-27,ativo
+SEL000336,69001,Manaus,AM,Viva Oficina,Viva Oficina Comércio Digital Ltda.,vendedor000336@example.com,+55 (00) 90000-0336,Loja de ferramentas,ferramentas,2015-07-20,ativo
+SEL000337,70005,Brasília,DF,Nexo Fábrica,Nexo Fábrica Comércio Digital Ltda.,vendedor000337@example.com,+55 (00) 90000-0337,Fabricante,infantil,2013-11-14,ativo
+SEL000338,60006,Fortaleza,CE,Ateliê Auto Center,Ateliê Auto Center Comércio Digital Ltda.,vendedor000338@example.com,+55 (00) 90000-0338,Loja automotiva,automotivo,2016-03-18,ativo
+SEL000339,58000,João Pessoa,PB,Prime Utilidades,Prime Utilidades Comércio Digital Ltda.,vendedor000339@example.com,+55 (00) 90000-0339,Loja multicanal,livros,2013-01-14,ativo
+SEL000340,40000,Salvador,BA,Prático Amigos dos Animais,Prático Amigos dos Animais Comércio Digital Ltda.,vendedor000340@example.com,+55 (00) 90000-0340,Loja pet,pets,2015-11-04,ativo
+SEL000341,76801,Porto Velho,RO,Estação Manufatura,Estação Manufatura Comércio Digital Ltda.,vendedor000341@example.com,+55 (00) 90000-0341,Fabricante,bebidas,2016-01-05,ativo
+SEL000342,53000,Olinda,PE,Nexo Cuidados Pessoais,Nexo Cuidados Pessoais Comércio Digital Ltda.,vendedor000342@example.com,+55 (00) 90000-0342,Loja de beleza,beleza,2014-05-08,ativo
+SEL000343,79004,Campo Grande,MS,Rede Produtos,Rede Produtos Comércio Digital Ltda.,vendedor000343@example.com,+55 (00) 90000-0343,Fabricante,tecnologia,2014-09-06,ativo
+SEL000344,38402,Uberlândia,MG,Grupo Design,Grupo Design Comércio Digital Ltda.,vendedor000344@example.com,+55 (00) 90000-0344,Loja de casa e decoração,casa,2014-10-07,ativo
+SEL000345,50003,Recife,PE,Rede Tendências,Rede Tendências Comércio Digital Ltda.,vendedor000345@example.com,+55 (00) 90000-0345,Loja de moda,moda,2013-12-31,ativo
+SEL000346,13001,Campinas,SP,Conecta Marketplace,Conecta Marketplace Comércio Digital Ltda.,vendedor000346@example.com,+55 (00) 90000-0346,Loja multicanal,esporte,2013-05-22,pausado
+SEL000347,69906,Rio Branco,AC,Brisa Oficina,Brisa Oficina Comércio Digital Ltda.,vendedor000347@example.com,+55 (00) 90000-0347,Loja de ferramentas,ferramentas,2014-09-24,ativo
+SEL000348,59004,Natal,RN,Nexo Pequenos,Nexo Pequenos Comércio Digital Ltda.,vendedor000348@example.com,+55 (00) 90000-0348,Loja infantil,infantil,2016-01-17,ativo
+SEL000349,76802,Porto Velho,RO,Horizonte Auto Peças,Horizonte Auto Peças Comércio Digital Ltda.,vendedor000349@example.com,+55 (00) 90000-0349,Loja automotiva,automotivo,2013-07-26,ativo
+SEL000350,70001,Brasília,DF,Brisa Papelaria e Livros,Brisa Papelaria e Livros Comércio Digital Ltda.,vendedor000350@example.com,+55 (00) 90000-0350,Livraria,livros,2013-09-12,ativo
